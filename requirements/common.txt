@@ -183,4 +183,4 @@ pyldap==2.4.37
 social-auth-app-django==1.2.0
 
 # Needed for messages' rendered content parsing in push notifications.
-lxml==4.0.0
+lxml==4.6.2
