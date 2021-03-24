@@ -120,7 +120,7 @@ pytz==2017.2
 redis==2.10.6
 
 requests_oauthlib==0.8.0
-rsa==3.4.2
+rsa==4.1
 
 # Needed for Python 2+3 compatibility
 six==1.10.0
