@@ -14,7 +14,7 @@ Jinja2==2.9.6
 # Needed for markdown processing
 Markdown==2.6.9
 MarkupSafe==1.0
-Pygments==2.2.0
+Pygments==2.7.4
 
 # Needed for manage.py
 ipython==6.2.0
